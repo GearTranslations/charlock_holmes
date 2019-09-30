@@ -1,5 +1,7 @@
 require 'mkmf'
 
+$CXXFLAGS ||= ''
+
 if `which make`.strip.empty?
   STDERR.puts "\n\n"
   STDERR.puts "***************************************************************************************"

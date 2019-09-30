@@ -1,5 +1,9 @@
 # CharlockHolmes
 
+**Note:** This fork is a quick fix to include some minor fixes to it. Install it on the Gemfile using `gem 'charlock_holmes', github: 'GearTranslations/charlock_holmes'`.
+
+---
+
 Character encoding detecting library for Ruby using [ICU](http://site.icu-project.org/)
 
 ## Usage
